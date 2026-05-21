@@ -48,6 +48,8 @@
       <strong>"description"</strong>: "Tools and libraries that support AI agent runtime contexts.",
       <strong>"tags"</strong>: ["claude-code", "go", "libraries"],
       <strong>"examples"</strong>: [
+        "<a href="https://github.com/justinstimatze/be-my-geminis">be-my-geminis</a> — routes Claude Code image Reads through Gemini Vision into typed JSON",
+        "<a href="https://github.com/justinstimatze/weir">weir</a> — capability layer for Claude Code's Bash habits: manifest, antipattern suggester, idiom library",
         "<a href="https://github.com/justinstimatze/adit-code">adit-code</a> — finds files that cost agents the most tool calls",
         "<a href="https://github.com/justinstimatze/claude-mv">claude-mv</a> — migrates Claude Code internal state across directory moves",
         "<a href="https://github.com/justinstimatze/gozim">gozim</a> — pure-Go ZIM file reader with fulltext search"
@@ -102,7 +104,7 @@
   ],
   <strong>"metadata"</strong>: {
     <strong>"location"</strong>: "Berkeley, CA",
-    <strong>"lastUpdated"</strong>: "2026-05-03"
+    <strong>"lastUpdated"</strong>: "2026-05-21"
   }
 }
 </pre>
