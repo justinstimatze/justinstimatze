@@ -45,12 +45,13 @@
     {
       <strong>"id"</strong>: "agent-infra-tooling",
       <strong>"name"</strong>: "Agent infrastructure &amp; tooling",
-      <strong>"description"</strong>: "Tools and libraries that support AI agent runtime contexts.",
+      <strong>"description"</strong>: "Tools and libraries that support AI agent runtime contexts and repo/fleet workflows.",
       <strong>"tags"</strong>: ["claude-code", "go", "libraries"],
       <strong>"examples"</strong>: [
         "<a href="https://github.com/justinstimatze/be-my-geminis">be-my-geminis</a> — routes Claude Code image Reads through Gemini Vision into typed JSON",
         "<a href="https://github.com/justinstimatze/weir">weir</a> — capability layer for Claude Code's Bash habits: manifest, antipattern suggester, idiom library",
         "<a href="https://github.com/justinstimatze/adit-code">adit-code</a> — finds files that cost agents the most tool calls",
+        "<a href="https://github.com/justinstimatze/vidette">vidette</a> — audits and auto-fixes config drift across a GitHub repo fleet; deterministic, no LLM key required",
         "<a href="https://github.com/justinstimatze/claude-mv">claude-mv</a> — migrates Claude Code internal state across directory moves",
         "<a href="https://github.com/justinstimatze/gozim">gozim</a> — pure-Go ZIM file reader with fulltext search"
       ]
@@ -74,6 +75,15 @@
       <strong>"examples"</strong>: [
         "<a href="https://github.com/justinstimatze/lucida">lucida</a> — passive Vega/Mermaid/SVG generation from agent transcripts",
         "<a href="https://github.com/justinstimatze/groupchat">groupchat</a> — LLM-driven meme deployment, rendered to /dev/tty via braille art"
+      ]
+    },
+    {
+      <strong>"id"</strong>: "side-projects",
+      <strong>"name"</strong>: "Side projects",
+      <strong>"description"</strong>: "Playful experiments that don't fit the rest.",
+      <strong>"tags"</strong>: ["go", "linux", "for-fun"],
+      <strong>"examples"</strong>: [
+        "<a href="https://github.com/justinstimatze/flock">flock</a> — system-wide goose honks on every keypress; pure-Go evdev listener, native PipeWire audio"
       ]
     }
   ],
@@ -104,7 +114,7 @@
   ],
   <strong>"metadata"</strong>: {
     <strong>"location"</strong>: "Berkeley, CA",
-    <strong>"lastUpdated"</strong>: "2026-05-21"
+    <strong>"lastUpdated"</strong>: "2026-05-28"
   }
 }
 </pre>
