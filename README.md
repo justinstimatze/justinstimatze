@@ -27,6 +27,7 @@
         "<a href="https://github.com/justinstimatze/gemot">gemot</a> — structured deliberation MCP server",
         "<a href="https://github.com/justinstimatze/gemotvis">gemotvis</a> — real-time visualization for gemot deliberation sessions",
         "<a href="https://github.com/justinstimatze/winze">winze</a> — knowledge base that audits its own accuracy",
+        "<a href="https://github.com/justinstimatze/calque">calque</a> — finds one concept defined in N places that silently diverged (code or prose)",
         "<a href="https://github.com/justinstimatze/defn">defn</a> — AI-native code database for Go"
       ]
     },
@@ -50,6 +51,7 @@
       <strong>"examples"</strong>: [
         "<a href="https://github.com/justinstimatze/be-my-geminis">be-my-geminis</a> — routes Claude Code image Reads through Gemini Vision into typed JSON",
         "<a href="https://github.com/justinstimatze/weir">weir</a> — capability layer for Claude Code's Bash habits: manifest, antipattern suggester, idiom library",
+        "<a href="https://github.com/justinstimatze/mcp-dispatch">mcp-dispatch</a> — local inter-agent messaging rail for MCP clients",
         "<a href="https://github.com/justinstimatze/adit-code">adit-code</a> — finds files that cost agents the most tool calls",
         "<a href="https://github.com/justinstimatze/vidette">vidette</a> — audits and auto-fixes config drift across a GitHub repo fleet; deterministic, no LLM key required",
         "<a href="https://github.com/justinstimatze/claude-mv">claude-mv</a> — migrates Claude Code internal state across directory moves",
@@ -64,7 +66,8 @@
       <strong>"examples"</strong>: [
         "<a href="https://github.com/justinstimatze/drivermap">drivermap</a> — behavioral mechanisms knowledge base for agent-driven prediction",
         "<a href="https://github.com/justinstimatze/effigy">effigy</a> — dense character notation for LLM-driven NPCs",
-        "<a href="https://github.com/justinstimatze/score">score</a> — arc design tool with structural linter"
+        "<a href="https://github.com/justinstimatze/score">score</a> — arc design tool with structural linter",
+        "<a href="https://github.com/justinstimatze/cupel">cupel</a> — catalog of story wish-fulfillment engines and the grifts wearing their faces"
       ]
     },
     {
@@ -114,7 +117,7 @@
   ],
   <strong>"metadata"</strong>: {
     <strong>"location"</strong>: "Berkeley, CA",
-    <strong>"lastUpdated"</strong>: "2026-05-28"
+    <strong>"lastUpdated"</strong>: "2026-06-09"
   }
 }
 </pre>
