@@ -56,8 +56,11 @@
       <strong>"tags"</strong>: ["claude-code", "go", "libraries"],
       <strong>"examples"</strong>: [
         "<a href="https://github.com/justinstimatze/be-my-geminis">be-my-geminis</a> — routes Claude Code image Reads through Gemini Vision",
+        "<a href="https://github.com/justinstimatze/saturday">saturday</a> — voice layer; speaks into your tmux pane (experimental)",
         "<a href="https://github.com/justinstimatze/weir">weir</a> — capability layer for Claude Code's Bash habits",
         "<a href="https://github.com/justinstimatze/mcp-dispatch">mcp-dispatch</a> — local inter-agent messaging rail for MCP clients",
+        "<a href="https://github.com/justinstimatze/ettle">ettle</a> — surfaces team collisions pre-meeting (experimental)",
+        "<a href="https://github.com/justinstimatze/crystal">crystal</a> — routes mechanical work off the frontier LLM (experimental)",
         "<a href="https://github.com/justinstimatze/stull">stull</a> — Claude Code hooks as guarded state machines",
         "<a href="https://github.com/justinstimatze/adit-code">adit-code</a> — finds files that cost agents the most tool calls",
         "<a href="https://github.com/justinstimatze/vidette">vidette</a> — audits and auto-fixes config drift across a repo fleet",
@@ -124,7 +127,7 @@
   ],
   <strong>"metadata"</strong>: {
     <strong>"location"</strong>: "Berkeley, CA",
-    <strong>"lastUpdated"</strong>: "2026-06-11"
+    <strong>"lastUpdated"</strong>: "2026-06-19"
   }
 }
 </pre>
