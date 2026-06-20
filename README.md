@@ -114,6 +114,11 @@
     },
     <strong>"contributing"</strong>: [
       {
+        <strong>"role"</strong>: "Public AI Research Engineer",
+        <strong>"organization"</strong>: "Metagov × Current AI",
+        <strong>"project"</strong>: "<a href="https://publicai.co">publicai.co</a>"
+      },
+      {
         <strong>"project"</strong>: "<a href="https://github.com/justinstimatze/buddy">buddy</a>",
         <strong>"scope"</strong>: "TypeScript ports of slimemold and effigy"
       }
