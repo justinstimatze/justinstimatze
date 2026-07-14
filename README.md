@@ -59,6 +59,7 @@
         "<a href="https://github.com/justinstimatze/saturday">saturday</a> — voice layer; speaks into your tmux pane (experimental)",
         "<a href="https://github.com/justinstimatze/weir">weir</a> — capability layer for Claude Code's Bash habits",
         "<a href="https://github.com/justinstimatze/mcp-dispatch">mcp-dispatch</a> — local inter-agent messaging rail for MCP clients",
+        "<a href="https://github.com/justinstimatze/leat">leat</a> — cross-host git-repo transport for mcp-dispatch",
         "<a href="https://github.com/justinstimatze/ettle">ettle</a> — surfaces team collisions pre-meeting (experimental)",
         "<a href="https://github.com/justinstimatze/crystal">crystal</a> — routes mechanical work off the frontier LLM (experimental)",
         "<a href="https://github.com/justinstimatze/stull">stull</a> — Claude Code hooks as guarded state machines",
@@ -96,7 +97,9 @@
       <strong>"description"</strong>: "Playful experiments that don't fit the rest.",
       <strong>"tags"</strong>: ["go", "linux", "for-fun"],
       <strong>"examples"</strong>: [
-        "<a href="https://github.com/justinstimatze/flock">flock</a> — system-wide goose honks on every keypress (pure-Go evdev)"
+        "<a href="https://github.com/justinstimatze/flock">flock</a> — system-wide goose honks on every keypress (pure-Go evdev)",
+        "<a href="https://github.com/justinstimatze/rtux">rtux</a> — freezes runaway apps under memory pressure; reversible",
+        "<a href="https://github.com/justinstimatze/gusset">gusset</a> — syncs Firefox extension settings across your machines"
       ]
     }
   ],
@@ -132,7 +135,7 @@
   ],
   <strong>"metadata"</strong>: {
     <strong>"location"</strong>: "Berkeley, CA",
-    <strong>"lastUpdated"</strong>: "2026-06-19"
+    <strong>"lastUpdated"</strong>: "2026-07-14"
   }
 }
 </pre>
