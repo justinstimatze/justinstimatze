@@ -46,7 +46,8 @@
         "<a href="https://github.com/justinstimatze/ismyaialive">ismyaialive</a> — pattern detection against research codebooks",
         "<a href="https://github.com/justinstimatze/plancheck">plancheck</a> — predicts which files agents will miss",
         "<a href="https://github.com/justinstimatze/hindcast">hindcast</a> — calibrated wall-clock priors for Claude Code",
-        "<a href="https://github.com/justinstimatze/basanite">basanite</a> — vocab-tic detector for Claude Code output"
+        "<a href="https://github.com/justinstimatze/basanite">basanite</a> — vocab-tic detector for Claude Code output",
+        "<a href="https://github.com/justinstimatze/cope">cope</a> — two-axis LLM output linter: voice card + structural checks"
       ]
     },
     {
@@ -99,7 +100,8 @@
       <strong>"examples"</strong>: [
         "<a href="https://github.com/justinstimatze/flock">flock</a> — system-wide goose honks on every keypress (pure-Go evdev)",
         "<a href="https://github.com/justinstimatze/rtux">rtux</a> — freezes runaway apps under memory pressure; reversible",
-        "<a href="https://github.com/justinstimatze/gusset">gusset</a> — syncs Firefox extension settings across your machines"
+        "<a href="https://github.com/justinstimatze/gusset">gusset</a> — syncs Firefox extension settings across your machines",
+        "<a href="https://github.com/justinstimatze/twip">twip</a> — a modern Flash: vector timeline → .swf that Ruffle plays"
       ]
     }
   ],
@@ -135,7 +137,7 @@
   ],
   <strong>"metadata"</strong>: {
     <strong>"location"</strong>: "Berkeley, CA",
-    <strong>"lastUpdated"</strong>: "2026-07-14"
+    <strong>"lastUpdated"</strong>: "2026-08-03"
   }
 }
 </pre>
