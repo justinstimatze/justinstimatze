@@ -113,7 +113,7 @@
   ],
   <strong>"engagements"</strong>: {
     <strong>"primary"</strong>: {
-      <strong>"role"</strong>: "Public AI Research Engineer",
+      <strong>"role"</strong>: "Research Engineer",
       <strong>"organization"</strong>: "Current AI",
       <strong>"project"</strong>: "<a href="https://aipotluck.org">aipotluck.org</a>"
     },
