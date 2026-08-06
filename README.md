@@ -114,8 +114,8 @@
   <strong>"engagements"</strong>: {
     <strong>"primary"</strong>: {
       <strong>"role"</strong>: "Public AI Research Engineer",
-      <strong>"organization"</strong>: "Metagov × Current AI",
-      <strong>"project"</strong>: "<a href="https://publicai.co">publicai.co</a>"
+      <strong>"organization"</strong>: "Current AI",
+      <strong>"project"</strong>: "<a href="https://aipotluck.org">aipotluck.org</a>"
     },
     <strong>"contributing"</strong>: [
       {
