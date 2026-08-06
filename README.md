@@ -113,16 +113,11 @@
   ],
   <strong>"engagements"</strong>: {
     <strong>"primary"</strong>: {
-      <strong>"role"</strong>: "Head of Engineering",
-      <strong>"organization"</strong>: "AI Objectives Institute",
-      <strong>"project"</strong>: "<a href="https://github.com/AIObjectives/tttc-light-js">tttc-light-js</a>"
+      <strong>"role"</strong>: "Public AI Research Engineer",
+      <strong>"organization"</strong>: "Metagov × Current AI",
+      <strong>"project"</strong>: "<a href="https://publicai.co">publicai.co</a>"
     },
     <strong>"contributing"</strong>: [
-      {
-        <strong>"role"</strong>: "Public AI Research Engineer",
-        <strong>"organization"</strong>: "Metagov × Current AI",
-        <strong>"project"</strong>: "<a href="https://publicai.co">publicai.co</a>"
-      },
       {
         <strong>"project"</strong>: "<a href="https://github.com/justinstimatze/buddy">buddy</a>",
         <strong>"scope"</strong>: "TypeScript ports of slimemold and effigy"
@@ -137,7 +132,7 @@
   ],
   <strong>"metadata"</strong>: {
     <strong>"location"</strong>: "Berkeley, CA",
-    <strong>"lastUpdated"</strong>: "2026-08-03"
+    <strong>"lastUpdated"</strong>: "2026-08-06"
   }
 }
 </pre>
