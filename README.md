@@ -33,7 +33,8 @@
         "<a href="https://github.com/justinstimatze/gemotvis">gemotvis</a> — real-time viz for gemot sessions",
         "<a href="https://github.com/justinstimatze/winze">winze</a> — knowledge base that audits its own accuracy",
         "<a href="https://github.com/justinstimatze/calque">calque</a> — finds concepts defined in N places that silently diverged",
-        "<a href="https://github.com/justinstimatze/defn">defn</a> — AI-native code database for Go"
+        "<a href="https://github.com/justinstimatze/defn">defn</a> — AI-native code database for Go",
+        "<a href="https://github.com/justinstimatze/lexicon">lexicon</a> — lineage-grounded catalog of cognitive primitives"
       ]
     },
     {
@@ -47,7 +48,8 @@
         "<a href="https://github.com/justinstimatze/plancheck">plancheck</a> — predicts which files agents will miss",
         "<a href="https://github.com/justinstimatze/hindcast">hindcast</a> — calibrated wall-clock priors for Claude Code",
         "<a href="https://github.com/justinstimatze/basanite">basanite</a> — vocab-tic detector for Claude Code output",
-        "<a href="https://github.com/justinstimatze/cope">cope</a> — two-axis LLM output linter: voice card + structural checks"
+        "<a href="https://github.com/justinstimatze/cope">cope</a> — two-axis LLM output linter: voice card + structural checks",
+        "<a href="https://github.com/justinstimatze/capitulant">capitulant</a> — stuck tasks as license to scope-creep (experimental)"
       ]
     },
     {
@@ -67,7 +69,12 @@
         "<a href="https://github.com/justinstimatze/adit-code">adit-code</a> — finds files that cost agents the most tool calls",
         "<a href="https://github.com/justinstimatze/vidette">vidette</a> — audits and auto-fixes config drift across a repo fleet",
         "<a href="https://github.com/justinstimatze/claude-mv">claude-mv</a> — migrates Claude Code state across directory moves",
-        "<a href="https://github.com/justinstimatze/gozim">gozim</a> — pure-Go ZIM file reader with fulltext search"
+        "<a href="https://github.com/justinstimatze/gozim">gozim</a> — pure-Go ZIM file reader with fulltext search",
+        "<a href="https://github.com/justinstimatze/nowcast">nowcast</a> — warns before a session crosses its prompt-cache TTL",
+        "<a href="https://github.com/justinstimatze/chit">chit</a> — Go client and merchant library for ATXP",
+        "<a href="https://github.com/justinstimatze/onsetter">onsetter</a> — delivers a CLAUDE.md note at the Write/Edit it targets",
+        "<a href="https://github.com/justinstimatze/trig">trig</a> — cross-refs a PostHog flag's rollout onto its Linear ticket",
+        "<a href="https://github.com/justinstimatze/pellicle">pellicle</a> — a status report Claude writes into its own transcript"
       ]
     },
     {
@@ -132,7 +139,7 @@
   ],
   <strong>"metadata"</strong>: {
     <strong>"location"</strong>: "Berkeley, CA",
-    <strong>"lastUpdated"</strong>: "2026-08-06"
+    <strong>"lastUpdated"</strong>: "2026-08-26"
   }
 }
 </pre>
